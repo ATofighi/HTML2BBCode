@@ -1,0 +1,9 @@
+{
+    "name": "ATofighi/HTML2BBCode",
+    "description": "A PHP library that converts HTML to BBCode",
+    "license": "MIT",
+	"version": "0.9",
+	"require": {
+        "php": ">=5.5.0"
+    }
+}
